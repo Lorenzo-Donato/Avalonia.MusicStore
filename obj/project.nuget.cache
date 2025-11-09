@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nphECmyX3gg=",
+  "dgSpecHash": "5hqlKj+Xgng=",
   "success": true,
-  "projectFilePath": "/home/lorenzo/Desktop/avalonia/musicstoreapp/Avalonia.MusicStore/Avalonia.MusicStore.csproj",
+  "projectFilePath": "/home/lorenzo/Desktop/ programming/avalonia/Avalonia.MusicStore/Avalonia.MusicStore/Avalonia.MusicStore.csproj",
   "expectedPackageFiles": [
     "/home/lorenzo/.nuget/packages/avalonia/11.3.8/avalonia.11.3.8.nupkg.sha512",
     "/home/lorenzo/.nuget/packages/avalonia.angle.windows.natives/2.1.25547.20250602/avalonia.angle.windows.natives.2.1.25547.20250602.nupkg.sha512",

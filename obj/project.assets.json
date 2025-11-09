@@ -1481,11 +1481,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/lorenzo/Desktop/avalonia/musicstoreapp/Avalonia.MusicStore/Avalonia.MusicStore.csproj",
+      "projectUniqueName": "/home/lorenzo/Desktop/ programming/avalonia/Avalonia.MusicStore/Avalonia.MusicStore/Avalonia.MusicStore.csproj",
       "projectName": "Avalonia.MusicStore",
-      "projectPath": "/home/lorenzo/Desktop/avalonia/musicstoreapp/Avalonia.MusicStore/Avalonia.MusicStore.csproj",
+      "projectPath": "/home/lorenzo/Desktop/ programming/avalonia/Avalonia.MusicStore/Avalonia.MusicStore/Avalonia.MusicStore.csproj",
       "packagesPath": "/home/lorenzo/.nuget/packages/",
-      "outputPath": "/home/lorenzo/Desktop/avalonia/musicstoreapp/Avalonia.MusicStore/obj/",
+      "outputPath": "/home/lorenzo/Desktop/ programming/avalonia/Avalonia.MusicStore/Avalonia.MusicStore/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/lorenzo/.nuget/NuGet/NuGet.Config"
